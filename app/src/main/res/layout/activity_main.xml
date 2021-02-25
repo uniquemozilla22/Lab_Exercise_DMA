@@ -46,6 +46,11 @@
                 android:padding="@dimen/padding_regular"
                 android:text="@string/article_text"
                  />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Add Component"
+                />
 
         </LinearLayout>
     
